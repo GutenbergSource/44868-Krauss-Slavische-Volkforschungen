@@ -1,0 +1,31 @@
+<style>
+
+.bilingual
+{
+    width: 90%;
+    font-size: smaller;
+}
+
+.bilingual TD
+{
+    width: 50%;
+}
+
+.bilingual .lgouter
+{
+    margin-left: 20%;
+    margin-right: 0;
+}
+
+td.first
+{
+    width: 35%;
+}
+
+td.second
+{
+    width: 55%
+}
+
+
+</style>
